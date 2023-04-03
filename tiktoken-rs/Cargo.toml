@@ -13,7 +13,6 @@ readme = "../README.md"
 
 [dependencies]
 anyhow = "1.0.70"
-async-openai = "0.10.0"
 base64 = "0.21.0"
 bstr = "1.4.0"
 fancy-regex = "0.11.0"
